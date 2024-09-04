@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @pe-ezz
-- 👀 I’m interested in R.
+- Hi, I’m @pe-ezz
+- I'm journalist and and a beginner in the world of data.
+- I know a little about LAI and OSINT.
+- I’m interested in R
 
 
 <!---
